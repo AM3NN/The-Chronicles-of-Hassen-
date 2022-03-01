@@ -1,0 +1,66 @@
+Fullscreen: 
+
+x : 756
+
+y : 433
+
+Windowed:
+
+x : 1203
+
+y : 433
+
+Controls:
+
+x : 756
+
+y : 775
+
+Credits:
+
+x : 1203
+
+y : 775
+
+Volume (not clickable):
+
+x : 598
+
+y : 604
+
+Volume barre (not clickable):
+
+x : 1115
+
+y : 604
+
+Volume up1:
+
+x : 870
+
+y : 603
+
+volume up2:
+
+x : 991
+
+y : 603
+
+volumeup3:
+
+x : 1112
+
+y : 603
+
+volume up4:
+
+x : 1233
+
+y : 603
+
+volume up5:
+
+x : 1354
+
+y : 603
+

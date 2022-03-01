@@ -1,0 +1,11 @@
+Fullscreen/windowed/volume/controls/credits:
+
+w : 281
+
+h : 83
+
+Volume up:
+
+w : 116
+
+h : 41
